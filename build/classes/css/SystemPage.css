@@ -1,0 +1,26 @@
+
+.root {
+    -fx-background-color: #F4F4F4;
+
+}
+
+.label{
+    -fx-text-fill: #000061;
+    -fx-font-weight: bold;
+    -fx-font-size: 13pt;
+}
+
+.button{
+    -fx-background-color: #000061;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-style: italic;
+}
+
+#Log-out{
+    -fx-background-color: darkorange;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-style: italic;
+
+}

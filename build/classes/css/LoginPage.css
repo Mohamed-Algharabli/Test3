@@ -1,0 +1,25 @@
+
+.root {
+    -fx-background-color: #F4F4F4;
+    -fx-font-size: 13pt;
+}
+
+.label{
+    -fx-font-weight: bold;
+}
+
+.button{
+    -fx-background-color: #0000FF;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+
+}
+
+.textFieldLoginName{
+    -fx-border-color: #3333A1;
+}
+
+.passwordField{
+    -fx-border-color: #3333A1;
+}
+
